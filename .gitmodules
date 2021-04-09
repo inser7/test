@@ -1,0 +1,3 @@
+[submodule "housesales"]
+	path = housesales
+	url = https://github.com/inser7/housesales.git
